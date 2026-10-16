@@ -1,0 +1,6 @@
+{
+  "name": "AVIPO GESTION",
+  "description": "Système ERP de gestion complète d'exploitation avicole : ramassage d'œufs sectorisé (G3, G4, G5, G6), créneaux 10H-13H-16H, stocks, mortalité, ventes, facturation A4, RBAC et notifications automatiques.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
